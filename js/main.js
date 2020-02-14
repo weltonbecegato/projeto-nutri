@@ -45,6 +45,7 @@ pacientes.forEach(paciente => {
             tdIMC.textContent = imc.toFixed(2);
         }
         
+        
     });
         
         
